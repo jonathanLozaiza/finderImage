@@ -1,0 +1,9 @@
+.imagen{
+    height: 200px; 
+    width: 100%; 
+    display: block;
+}
+
+.espacio{
+    padding-bottom: 20px;
+}
